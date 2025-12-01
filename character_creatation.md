@@ -1,7 +1,7 @@
 # Character Creation Cheatsheet
 ### Use these steps to create a character.
 
-## **Card 1 — Choose Class**
+## **1 — Choose Class**
 - Pick class first (it guides all other choices)
 - Determines:
   - Main ability score(s)
@@ -15,7 +15,7 @@
 
 ---
 
-## **Card 2 — Choose Race / Lineage**
+## **2 — Choose Race / Lineage**
 - Provides:
   - Ability score bonuses (unless using custom origins)
   - Walking speed
@@ -31,7 +31,7 @@
 
 ---
 
-## **Ability Scores
+## **3 - Ability Scores
 Assign your stats (Method: roll 4d6 drop lowest, point buy, or standard array)
 
 Place them based on class needs
@@ -42,7 +42,7 @@ Place them based on class needs
 
 ---
 
-## **Card 4 — Background**
+## **4 — Background**
 - Adds:
   - 2 skill proficiencies
   - Tool or language proficiencies
@@ -56,7 +56,7 @@ Place them based on class needs
 
 ---
 
-## **Card 5 — Skills & Proficiencies**
+## **5 — Skills & Proficiencies**
 - Combine all proficiencies from:
   - Class
   - Race
@@ -79,7 +79,7 @@ Place them based on class needs
 
 ---
 
-## **Card 7 — Armor Class & Initiative**
+## **7 — Armor Class & Initiative**
 **Armor Class:**
 - Wearing armor → armor AC rules + DEX (light/medium)
 - No armor → 10 + DEX
@@ -90,7 +90,7 @@ Place them based on class needs
 
 ---
 
-## **Card 8 — Attacks**
+## **8 — Attacks**
 For each weapon:
 - Attack Bonus = ability mod (STR/DEX) + proficiency bonus
 - Damage = weapon die + ability modifier
@@ -100,7 +100,7 @@ For each weapon:
 
 ---
 
-## **Card 9 — Spellcasting**
+## **9 — Spellcasting**
 (If your class uses spells)
 
 **Spellcasting Ability:**
@@ -118,7 +118,7 @@ For each weapon:
 
 ---
 
-## **Card 10 — Equipment**
+## **10 — Equipment**
 - Take starting class equipment OR roll gold and buy
 - Add background items
 - Write down:
@@ -131,7 +131,7 @@ For each weapon:
 
 ---
 
-## **Card 11 — Passive Scores**
+## **11 — Passive Scores**
 - Passive Perception = 10 + Perception bonus
 - Passive Investigation = 10 + Investigation bonus
 - Passive Insight = 10 + Insight bonus
@@ -139,7 +139,7 @@ For each weapon:
 
 ---
 
-## **Card 12 — Character Details**
+## **12 — Character Details**
 - Name
 - Class
 - Race
@@ -151,7 +151,7 @@ For each weapon:
 
 ---
 
-## **Card 13 — Final Checklist**
+## **13 — Final Checklist**
 Before play:
 - Ability scores + modifiers correct
 - HP calculated
