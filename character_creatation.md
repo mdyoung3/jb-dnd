@@ -5,43 +5,43 @@ nergize with certain classes
 ## **Card 3 — Assign Ability Scores**
 - Method: 4d6 drop lowest, point buy, or standard array
   - Place scores where class needs them
-    - Add racial bonuses
-      - Convert scores to modifiers:
-          - 8 = –1  
-              - 10 = +0  
-                  - 14 = +2  
-                      - 18 = +4
-                        - Write modifiers next to each ability:
-                            - STR, DEX, CON, INT, WIS, CHA
+  - Add racial bonuses
+  - Convert scores to modifiers:
+  - 8 = –1  
+  - 10 = +0  
+  - 14 = +2  
+  - 18 = +4
+  - Write modifiers next to each ability:
+- STR, DEX, CON, INT, WIS, CHA
 
-                              ---
+---
 
 ## **Card 4 — Background**
 - Adds:
     - 2 skill proficiencies
-        - Tool or language proficiencies
-            - Background Feature (roleplay benefit)
-                - Background equipment
-                  - Also choose:
-                      - Personality Traits
-                          - Ideal
-                              - Bond
-                                  - Flaw
+    - Tool or language proficiencies
+    - Background Feature (roleplay benefit)
+    - Background equipment
+    - Also choose:
+    - Personality Traits
+    - Ideal
+    - Bond
+     - Flaw
 
-                                    ---
+---
 
 ## **Card 5 — Skills & Proficiencies**
 - Combine all proficiencies from:
-    - Class  
-        - Race  
-            - Background  
-              - Mark:
-                  - Skills
-                      - Tools
-                          - Weapons
-                              - Armor
-                                - Proficient skill# Character Creation Flash Cards (Beginner Edition)
-D&D 5e – Practical, Table-Friendly Order
+  - Class  
+  - Race  
+  - Background  
+  - Mark:
+  - Skills
+  - Tools
+  - Weapons
+  - Armor
+  - Proficient skill# Character Creation Flash Cards (Beginner Edition)
+  D&D 5e – Practical, Table-Friendly Order
 
 ---
 
