@@ -31,7 +31,46 @@
 
 ---
 
-## **Card 6 — Hit Points**
+## **Ability Scores
+Assign your stats (Method: roll 4d6 drop lowest, point buy, or standard array)
+
+Place them based on class needs
+  - Add racial bonuses 
+  - Convert scores to modifiers (8 = –1, 10 = +0, 14 = +2, etc.)
+  - Mark the modifier next to each ability
+  - Note: your modifier affects almost every roll
+
+---
+
+## **Card 4 — Background**
+- Adds:
+  - 2 skill proficiencies
+  - Tool or language proficiencies
+  - Background Feature (roleplay benefit)
+  - Background equipment
+- Also choose:
+  - Personality Traits
+  - Ideal
+  - Bond
+  - Flaw
+
+---
+
+## **Card 5 — Skills & Proficiencies**
+- Combine all proficiencies from:
+  - Class
+  - Race
+  - Background
+- Mark:
+  - Skills
+  - Tools
+  - Weapons
+  - Armor
+- Proficient skills use:
+  - Ability mod + proficiency bonus
+  - Proficiency bonus at level 1 = **+2**
+
+## **— Hit Points**
 - Level 1 HP = Hit Die maximum + CON modifier
   - Fighter = 10 + CON
   - Cleric/Rogue = 8 + CON
