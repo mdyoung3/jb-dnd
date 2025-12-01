@@ -101,5 +101,64 @@ For each weapon:
 ---
 
 ## **Card 9 — Spellcasting**
-(If your class uses spel
+(If your class uses spells)
+
+**Spellcasting Ability:**
+- Wizard = INT
+- Cleric/Druid = WIS
+- Bard/Sorcerer/Warlock = CHA
+
+**Important Numbers:**
+- Spell Attack Bonus = spell ability mod + proficiency bonus
+- Spell Save DC = 8 + proficiency bonus + spell ability mod
+
+**Other:**
+- Spell slots: see your class table
+- Write known/prepared spells
+
+---
+
+## **Card 10 — Equipment**
+- Take starting class equipment OR roll gold and buy
+- Add background items
+- Write down:
+  - Weapons
+  - Armor
+  - Adventurer’s pack contents
+  - Tools
+  - Ammunition
+- Add carried weight only if using encumbrance
+
+---
+
+## **Card 11 — Passive Scores**
+- Passive Perception = 10 + Perception bonus
+- Passive Investigation = 10 + Investigation bonus
+- Passive Insight = 10 + Insight bonus
+- Used by DM to detect things without rolls
+
+---
+
+## **Card 12 — Character Details**
+- Name
+- Class
+- Race
+- Background
+- Alignment (optional)
+- Age, appearance
+- Personality traits, ideal, bond, flaw
+- Short backstory (optional)
+
+---
+
+## **Card 13 — Final Checklist**
+Before play:
+- Ability scores + modifiers correct
+- HP calculated
+- AC + initiative written down
+- Proficiencies marked
+- Weapons + damage written
+- Spells written (if any)
+- All class, race, background features copied
+- Equipment fully listed
 
