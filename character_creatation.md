@@ -31,7 +31,7 @@
 
 ---
 
-## **3 - Ability Scores
+## **3 - Ability Scores**
 Assign your stats (Method: roll 4d6 drop lowest, point buy, or standard array)
 
 Place them based on class needs
@@ -70,7 +70,7 @@ Place them based on class needs
   - Ability mod + proficiency bonus
   - Proficiency bonus at level 1 = **+2**
 
-## **— Hit Points**
+## **6 — Hit Points**
 - Level 1 HP = Hit Die maximum + CON modifier
   - Fighter = 10 + CON
   - Cleric/Rogue = 8 + CON
